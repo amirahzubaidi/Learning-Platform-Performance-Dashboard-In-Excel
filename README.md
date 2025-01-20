@@ -4,7 +4,6 @@
 In the digital age, online learning platforms have become a preferred choice for millions to develop their skills and gain knowledge anytime, anywhere. But with so many options, how can we choose the best? This performance dashboard sheds light on key metrics such as ratings, completion rates, pricing, and user engagement for four top platforms: Udemy, LinkedIn Learning, Coursera, and edX.
 
 💥 Key Metrics: 
-
 Average Rating: 3,99/5
 <br>Engagement Rate: 2,14
 <br>Total Users: 25.3 Million 
@@ -12,7 +11,6 @@ Average Rating: 3,99/5
 <br>Completion Rate: 75,1%
 
 📊 Visualizations:
- 
 <br>☑️ Top Platforms by Completion Rate:
 The platform with the highest completion rate is Udemy (75.10%), followed by LinkedIn Learning (75.08%).
 <br>☑️ Average Prices per Platform:
@@ -43,15 +41,16 @@ Tools Used: Microsoft Excel
 
 #### Step 1: Extract Course_Id, Course_Name, Category and Duration(Hours) data in the guide column
 We use the vlookup formula to find data, look at the image below
-
+<br>
 ![alt text](https://github.com/amirahzubaidi/Learning-Platform-Performance-Dashboard-In-Excel/blob/main/Picture/Screenshot%202025-01-20%20075035.png?raw=true)
-
+<br>
 ![alt text](https://github.com/amirahzubaidi/Learning-Platform-Performance-Dashboard-In-Excel/blob/main/Picture/Screenshot%202025-01-20%20075145.png?raw=true)
-
+<br>
 ![alt text](https://github.com/amirahzubaidi/Learning-Platform-Performance-Dashboard-In-Excel/blob/main/Picture/Screenshot%202025-01-20%20075155.png?raw=true)
 
 #### Step 2: Fill in the data in the Course ID column with the format =EDU-(Course Name)-(Course Category)-(Duration)-(Enrolled Students)-(Platform Code1)
 We create formula to fill the colomn Course ID
+<br>
 ![alt text](https://github.com/amirahzubaidi/Learning-Platform-Performance-Dashboard-In-Excel/blob/main/Picture/Screenshot%202025-01-20%20074853.png?raw=true)
 
 #### Step 3: Do the formatting data, cleaning data, Handling null values
