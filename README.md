@@ -23,10 +23,9 @@ We use the vlookup formula to find data, look at the image below
 
 #### Step 2: Fill in the data in the Course ID column with the format =EDU-(Course Name)-(Course Category)-(Duration)-(Enrolled Students)-(Platform Code1)
 We create formula to fill the colomn Course ID
+![alt text](https://github.com/amirahzubaidi/Learning-Platform-Performance-Dashboard-In-Excel/blob/main/Picture/Screenshot%202025-01-20%20074853.png?raw=true)
 
 #### Step 3: Do the formatting data, cleaning data, Handling null values
 ![alt text](https://github.com/amirahzubaidi/Learning-Platform-Performance-Dashboard-In-Excel/blob/main/Picture/Screenshot%202025-01-20%20075215.png?raw=true)
-
-![alt text](https://github.com/amirahzubaidi/Learning-Platform-Performance-Dashboard-In-Excel/blob/main/Picture/Screenshot%202025-01-20%20074853.png?raw=true)
 
 #### Step 3: Analyze by creating a pivot table
