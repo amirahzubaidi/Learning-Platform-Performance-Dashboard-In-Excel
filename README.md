@@ -4,7 +4,7 @@
 In the digital age, online learning platforms have become a preferred choice for millions to develop their skills and gain knowledge anytime, anywhere. But with so many options, how can we choose the best? This performance dashboard sheds light on key metrics such as ratings, completion rates, pricing, and user engagement for four top platforms: Udemy, LinkedIn Learning, Coursera, and edX.
 
 💥 Key Metrics: 
-Average Rating: 3,99/5
+<br>Average Rating: 3,99/5
 <br>Engagement Rate: 2,14
 <br>Total Users: 25.3 Million 
 <br>Total Course: 10.000
