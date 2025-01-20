@@ -6,10 +6,10 @@ In the digital age, online learning platforms have become a preferred choice for
 💥 Key Metrics: 
 
 Average Rating: 3,99/5
-Engagement Rate: 2,14
-Total Users: 25.3 Million 
-Total Course: 10.000
-Completion Rate: 75,1%
+<br>Engagement Rate: 2,14
+<br>Total Users: 25.3 Million 
+<br>Total Course: 10.000
+<br>Completion Rate: 75,1%
 
 📊 Visualizations:
  
