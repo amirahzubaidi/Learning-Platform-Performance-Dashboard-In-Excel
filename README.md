@@ -61,3 +61,5 @@ We create formula to fill the colomn Course ID
 
 #### Step 4: Here are the performance of the dashboard
 ![alt text](https://github.com/amirahzubaidi/Learning-Platform-Performance-Dashboard-In-Excel/blob/main/Screenshot%20Dashboard.png?raw=true)
+<br>
+#DashboardDevelopment #RawData #DataProcessing #DataVisualization #DataAnalysis #DataInsights #DataJourney #Analytics #BusinessIntelligence #DataDriven #DataStorytelling #DataScience #DataManagement #VisualizationTools #DataTrends #DataTransformation #DataPreparation #AnalyticsDashboard #DataReporting #DataVisualizationTools #DataAnalysisTools #DataVisualizationDesign #DataDrivenDecisions #InsightsThroughData #DataDashboardDesign
