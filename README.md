@@ -13,26 +13,27 @@ Average Rating: 3,99/5
 
 📊 Visualizations:
  
-☑️ Top Platforms by Completion Rate:
+<br>☑️ Top Platforms by Completion Rate:
 The platform with the highest completion rate is Udemy (75.10%), followed by LinkedIn Learning (75.08%).
-☑️ Average Prices per Platform:
+<br>☑️ Average Prices per Platform:
 The platform with the highest average price is Coursera ($108.04), while the lowest price is edX ($104.64).
-☑️ Enrolled Students by Percentage:
+<br>☑️ Enrolled Students by Percentage:
 The distribution of enrolled students is even among the four platforms with 25% each.
-☑️ Average Course Duration per Platform:
+<br>☑️ Average Course Duration per Platform:
 LinkedIn Learning has the longest course duration (55 hours), while Coursera has the shortest (53.3 hours).
-☑️ Top Platforms by Rating:
+<br>☑️ Top Platforms by Rating:
 The highest ratings belong to edX, Coursera, and Udemy (4.00), while LinkedIn Learning is slightly lower (3.97).
-☑️ Total Categories per Platform:
+<br>☑️ Total Categories per Platform:
 Udemy has the most number of categories (2,554), while Coursera has the least (2,466).
-☑️ Total Students per State Map:
+<br>☑️ Total Students per State Map:
 Shows the distribution of students in different states, each state's numbers range from 4.135 million to 4.346 million, Kentucky being the highest.
-☑️ Average Courses Rating per Platform:
+<br>☑️ Average Courses Rating per Platform:
 Each platform has different average ratings depending on the category, with categories like Technology tending to get higher ratings.
-☑️ States with the Highest Courses Expenses:
+<br>☑️ States with the Highest Courses Expenses:
 This graph shows the states with the highest course expenses for various categories such as AI, Data Science, and others.
 
-Summary : Overall, these platforms have their own advantages depending on user needs, such as category variety, course duration, price, or completion rate. Udemy and edX seem to be the superior choices for accessibility, while LinkedIn Learning and Coursera shine in terms of course duration and depth.
+Summary : 
+<br>Overall, these platforms have their own advantages depending on user needs, such as category variety, course duration, <br>price, or completion rate. Udemy and edX seem to be the superior choices for accessibility, while LinkedIn Learning and <br>Coursera shine in terms of course duration and depth.
 
 Tools Used: Microsoft Excel
 
