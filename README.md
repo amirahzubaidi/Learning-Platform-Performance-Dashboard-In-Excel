@@ -14,6 +14,7 @@ In the digital age, online learning platforms have become a preferred choice for
 
 #### Step 1: Ekstrak data Course_Id, Course_Name, Category dan Duration(Hours) pada kolom guide
 We use the vlookup formula to find data, look at the image below
+
 ![alt text](https://github.com/amirahzubaidi/Learning-Platform-Performance-Dashboard-In-Excel/blob/main/Picture/Screenshot%202025-01-20%20075035.png?raw=true)
 
 ![alt text](https://github.com/amirahzubaidi/Learning-Platform-Performance-Dashboard-In-Excel/blob/main/Picture/Screenshot%202025-01-20%20075145.png?raw=true)
@@ -22,4 +23,5 @@ We use the vlookup formula to find data, look at the image below
 
 #### Step 2: Isi data pada kolom Course ID dengan format =EDU-(Course Name)-(Course Category)-(Duration)-(Enrolled Stud)-(Platform Code1)
 We create formula to fill the colomn Course ID
+
 ![alt text](https://github.com/amirahzubaidi/Learning-Platform-Performance-Dashboard-In-Excel/blob/main/Picture/Screenshot%202025-01-20%20074853.png?raw=true)
